@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To use this tool in your own projects, start by cloning this repository.
 
 ```sh
-git clone https://github.com/BraydenTW/react-emoji-search
+git clone https://github.com/singhharshitkumar/react-emoji-search-main-2.git
 ```
 
 Then once the folder is inside your code editor, install all the necessary packages.
