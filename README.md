@@ -9,11 +9,11 @@ Spread joy and add a personal touch to your conversations with this React-powere
 Try it now and start expressing yourself with emojis! 💫😃
 <!-- ![Screenshot of web app](https://i.ibb.co/g4ZwTs6/9-A8-EBC50-F031-4401-B672-5-DAB70-C37832.jpg) -->
 
-Demo video :
-https://github.com/singhharshitkumar/react-emoji-search-main-2/assets/111556025/0d760c1c-21fb-4c88-8d06-b450c2f20d2f
+
 <img width="1437" alt="Screenshot 2023-06-13 at 2 15 53 PM" src="https://github.com/singhharshitkumar/react-emoji-search-main-2/assets/111556025/33ad39d3-e082-4046-8bea-0db79e404e9b">
 
-
+Demo video :
+https://github.com/singhharshitkumar/react-emoji-search-main-2/assets/111556025/0d760c1c-21fb-4c88-8d06-b450c2f20d2f
 
 
 ---
